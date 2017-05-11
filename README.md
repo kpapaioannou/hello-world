@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hello everybody!
+I am Kostas, I like C++ and game programming.
